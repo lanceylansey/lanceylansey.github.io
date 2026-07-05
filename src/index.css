@@ -275,6 +275,11 @@ section { padding-block: var(--section-y); }
   margin-bottom: 10px;
 }
 .row-item p { color: var(--ink-soft); max-width: 62ch; }
+.row-item-detail {
+  margin-top: 6px;
+  font-size: 14px;
+  color: var(--muted);
+}
 .row-item-eyebrow { display: block; margin-top: 20px; }
 
 /* ---------- clubs ---------- */
